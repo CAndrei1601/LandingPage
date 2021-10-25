@@ -1237,4 +1237,35 @@ font-style: normal;
 
 }
 
+@media screen and (max-width: 1070px) {
+
+.about_left{
+  display: none;
+  margin-top:2vh!important;
+}
+
+.aboutMeDescription{
+  margin-top:2vh!important;
+  margin-left:1vh;
+}
+}
+
+
+@media screen and (max-width: 864px) {
+
+  .gridExperience{
+
+    display:block;
+    margin: 0!important;
+  }
+
+  .gridTemplate{
+    margin-top:1vh;
+  }
+
+  .imagine{
+    display: none;
+  }
+}
+
 
