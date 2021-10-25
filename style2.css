@@ -1161,11 +1161,7 @@ font-style: normal;
   margin-top: 20px;
 }
 
-@media screen and (max-width: 1050px) {
-  .aboutMeDescription {
-    display: flex;
-  }
-}
+
 
 .mb-5{
   margin-bottom: 5vh;
@@ -1267,5 +1263,3 @@ font-style: normal;
     display: none;
   }
 }
-
-
