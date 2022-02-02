@@ -1288,3 +1288,9 @@ font-style: normal;
   width:100vw;
   margin: 20px auto 25px auto;
 }
+
+textarea {
+  width: 80%;
+  min-height: 15em;
+}
+
