@@ -1046,7 +1046,7 @@ input,
 textarea {
   padding: 30px;
   border: 0;
-  width: 100%;
+  width: 80%;
   font-size: 1rem;
   background-color: #FAFAFA;
   color: white;
@@ -1098,7 +1098,7 @@ textarea {
 
 @media (max-width: 768px) {
   .submit-btn {
-      width:100%;
+      width:50%;
       float: none;
       text-align:center;
   }
