@@ -1283,3 +1283,8 @@ font-style: normal;
 .clear{
   clear: left; display: block;
 }
+
+.input-container {
+  width:100vw;
+  margin: 20px auto 25px auto;
+}
